@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShubhamM005
-- 👀 I’m interested in Web Devlopment and Data science
+- 👀 I’m interested in Web Devlopment and Django
 
 - 📫 You can reach me through linkedIn https://www.linkedin.com/in/shubham-musmade005/
 
