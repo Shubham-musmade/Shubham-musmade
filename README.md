@@ -1,4 +1,4 @@
-<img align="left" height="215" width="215" src="https://media.licdn.com/dms/image/v2/D5603AQFWPvF6peqLdw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1732080664565?e=1738800000&v=beta&t=WHtEbYR2hMPrDYYoMz_MyQs9jI8IlTzmG6h-SrFc9dQ"  />
+<img align="left" height="0" width="0" src="https://media.licdn.com/dms/image/v2/D5603AQFWPvF6peqLdw/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1732080664565?e=1738800000&v=beta&t=WHtEbYR2hMPrDYYoMz_MyQs9jI8IlTzmG6h-SrFc9dQ"  />
 
 
 
